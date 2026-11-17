@@ -1,0 +1,10 @@
+
+{
+  "name": "dr-rank-card",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@resvg/resvg-js": "2.6.2",
+    "@fontsource/noto-sans-arabic": "5.2.7"
+  }
+}
